@@ -15,7 +15,7 @@ At the root of the project directory, type make or mingw32-make (if you are usin
 ```shell
 make
 ```
-mingw:
+Mingw:
 ```shell
 mingw32-make
 ```
@@ -25,7 +25,7 @@ To bild libc_logger:
 ```shell
 make lib
 ```
-mingw:
+Mingw:
 ```shell
 mingw32-make lib
 ```
@@ -34,7 +34,7 @@ To build all the binaries:
 ```shell
 make apps
 ```
-mingw:
+Mingw:
 ```shell
 mingw32-make apps
 ```
